@@ -1,0 +1,66 @@
+.navfloat{
+    margin-left: 680px;
+    color: white;
+}
+.nav-marg{
+    margin-left: 150px;
+}
+.backgroundStudent{
+height: 500px;
+background-image:url("./imges/studystudnet.jpg");
+}
+.home{
+    white-space: normal;
+    font-size: large;
+    font-weight: bold;
+    float: right;
+    }
+.Green{
+    height: 50px;
+}
+
+.bordertext{
+    margin-top: 300px;
+    text-align: center;
+}
+.middletext{
+    text-align: center;
+}
+
+.space1{
+    margin: 20px;
+    height: 200px;
+
+
+}
+.left{
+   width: 100px;
+   float: right;
+   height:180px
+  
+}
+.size{
+    margin: 20px;
+}
+.htmls{
+    width: 70px;
+    height: 70px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+}
+.groupstudy{
+    width: 300px;
+    height: 250px;
+    margin-left: 40px;
+}
+.colorSpace{
+    background-color: skyblue;
+}
+.space8{
+    margin-left: 20px;
+}
+.corner{
+    border-radius: 10px;
+    width: 60px;
+    height: 55px;
+}

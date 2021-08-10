@@ -1,0 +1,32 @@
+.userback{
+    background-image: url('./imges/techno.jpg');
+    height: 700px;
+    border: 1px solid white;
+
+}
+.userwhite{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    height: 600px;
+    width: 70%;
+    margin-top: 60px;
+    border-radius: 10px 10px;
+
+}
+.logo{
+    margin-left: 50%;
+    margin-top: 20px;
+}
+Form{
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+   margin-top: 10px;
+   height: 300px;
+}
+.midle{
+    width: 200px;
+    border-radius: 10px;
+    height: 40px;
+}

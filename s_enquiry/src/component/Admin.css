@@ -1,0 +1,52 @@
+.back{
+    background-image: url('./imges/techno.jpg');
+    height: 700px;
+    border: 1px solid white;
+
+}
+.white{
+    margin-left: auto;
+    margin-right: auto;
+    background-color:white;
+    height: 590px;
+    width: 70%;
+    border-radius: 10px 10px;
+
+}
+.logo{
+    margin-left: 50%;
+    margin-top: 20px;
+}
+Form{
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+   height: 270px;
+   margin-top: 10px;
+
+}
+
+.dark{
+    text-align: center;
+
+}
+.ions1{
+    width: 30px;
+    height: 30px;
+}
+.ions2{
+    width: 30px;
+    height: 30px;
+}
+.ions3{
+    width: 30px;
+    height: 30px;
+}
+.cent{
+margin-left: 45%;
+}
+.homepageback{
+    color: white;
+    font-weight: bold;
+    margin-top: 20px;
+}

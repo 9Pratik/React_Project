@@ -1,0 +1,39 @@
+.layout1{
+    height: 700px;
+}
+.sideprofile1{
+ background-color: darkgrey;
+ height: 500px;
+ margin-top: 20px;
+
+}
+.sidebar1{
+    background-color: darkgrey;
+    height: 500px;
+    margin-top: 20px;
+}
+.anime1{
+    height: 150px;
+    width: 150px;
+    margin-top: 20PX;
+    margin-left: 20PX;
+}
+.file1{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.userline1{
+background-color: rgb(172, 154, 154);
+height: 1px;
+}
+.ProfileBack{
+    background-color:rgb(168, 201, 168);
+}
+.regStud{
+    margin-left: 70px;
+    background-color: slateblue;
+    margin-top: 20px;
+    margin-right: 70px;
+    height: 40px;
+}

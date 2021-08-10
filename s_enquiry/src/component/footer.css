@@ -1,0 +1,57 @@
+.Back-color{
+    background-color: teal;
+    height: 700px;
+}
+.add{
+    margin-left: 20px;
+    float: left;
+    margin-top: 30px;
+}
+.Box{
+    float:right;
+    width: 700px;
+    height: 320px;
+    background-color: bisque;
+    margin: 30px;
+    border-radius: 25px;
+}
+.margin{
+    margin-top: 30px;
+
+}
+.msg-box{
+    float: left;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+
+.sbox{
+    float: left;
+    margin-left: 80px;
+    margin-top: 20px;
+    
+}
+
+.message-box{
+    width: 300px;
+    float: right;
+    margin-top: 10px;
+    
+}
+.space-div{
+    height: 410px;
+}
+.fotcopy{
+    background-color: gray;
+    height: 40px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.text{
+    width: 230px;
+}
+.bordpic{
+    border-radius: 55px;
+    border: 5px solid orange;
+   
+}

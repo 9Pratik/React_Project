@@ -1,0 +1,38 @@
+.payment{
+    height: 250px;
+    border: 1px solid red;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    padding-bottom: 15px;
+    
+}
+.payborder{
+    background-color: black;
+    width: 600px;
+    height: 3px;
+}
+.read1{
+    margin-left: 400px;
+}
+.read2{
+    margin-left: 365px;
+}
+.check{
+    margin-top: 50px;
+    border: 1px solid red;
+}
+.checknav{
+    margin-right: 10px;
+}
+.pay{
+    height: 60px;
+    width: 60px;
+    margin-right: 10px;
+    border: 1px solid red;
+
+}
+.three{
+    text-align: center;
+}

@@ -1,0 +1,27 @@
+.mod1{
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 20px;
+}
+.btn{
+    margin-left: 275px;
+    width: 220px;
+    margin-top: 30px;
+    background-color: teal;
+}
+.colr{
+    background-color: rgb(182, 176, 176);
+    border-radius: 5px;
+}
+.homepageback{
+    color: white;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.message{
+    color: green;
+    font-weight: bold;
+    margin-left: 300px;
+    margin-bottom: 6px;
+
+}

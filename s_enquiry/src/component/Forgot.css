@@ -1,0 +1,27 @@
+.bord{
+    border: 1px solid red;
+    height: 400px;
+    text-align: center;
+    background-color: skyblue;
+    width: 600px;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 20px;
+}
+.admin{
+    width: 60px;
+    height: 60px;
+}
+.brod{
+    background-color: gray;
+    height: 5px;
+    width: 320px;
+    margin-left: 22%;
+}
+.bac{
+    margin-left: 38%;
+}
+.homepagebackfor{
+    color: white;
+    font-weight: bold;
+}

@@ -1,0 +1,86 @@
+.nav-marg{
+    margin-left: 150px;
+}
+.back-img{
+height: 500px;
+background-image: url('./imges/studentback.jpg');
+background-repeat: no-repeat;
+}
+.home{
+    white-space: normal;
+    font-size: large;
+    font-weight: bold;
+    float: right;
+    }
+.Green{
+    height: 50px;
+}
+.border{
+    margin-top: 300px;
+    text-align: center;
+}
+.middle{
+    text-align: center;
+}
+
+.space1{
+    margin: 20px;
+    height: 200px;
+
+    
+}
+.left{
+   width: 100px;
+   float: right;
+   height:180px
+  
+}
+.size1{
+    margin: 20px;
+    background-color: skyblue;
+}
+.htmls1{
+    width: 70px;
+    height: 70px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+}
+.groupstudy{
+    width: 300px;
+    height: 250px;
+    margin-left: 40px;
+}
+.colorSpace{
+    background-color: skyblue;
+    padding-top: 20px;
+}
+.space8{
+    margin-left: 20px;
+    color: yellow
+}
+.corner{
+    border-radius: 10px;
+    width: 60px;
+    height: 55px;
+}
+.iconspace{
+    margin-right: 10px;
+}
+.btnhtml{
+    margin-top: 50px;
+}
+.btnjavas{
+    margin-top: 25px;
+}
+.morecourse{
+    margin-left: 530px;
+    background-color: yellow;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.line{
+    height: 3px;
+    width: 250px;
+    margin-left: 520px;
+    background-color: yellow;
+}

@@ -1,0 +1,41 @@
+.space{
+    height: 80px;
+}
+.homehead1{
+    margin-top: 10px;
+    font-weight: 100;
+    width: 400px;
+    margin-left: 500px;
+    
+
+}
+.homespace{
+    height: 3px;
+    width: 320px;
+    background-color: yellow;
+    margin-left: 500px
+}
+
+.htmls{
+    width: 70px;
+    height: 70px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+
+}
+.htmls2{
+    width: 70px;
+    height: 90px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+
+}
+.size{
+    background-color: skyblue;
+}
+.morecourse1{
+    margin-left: 530px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: yellow;
+}

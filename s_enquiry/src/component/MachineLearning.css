@@ -1,0 +1,126 @@
+.nav-marg{
+    margin-left: 150px;
+}
+.back-img{
+height: 500px;
+background-image: url('./imges/studentback.jpg');
+background-repeat: no-repeat;
+}
+.home{
+    padding: 10px;
+    margin-right: 25px;
+    font-size: large;
+    font-weight: bold;
+    color: orange;  
+    float: right;
+    }
+.Green{
+    height: 50px;
+}
+.border{
+    margin-top: 300px;
+    text-align: center;
+}
+.middle{
+    text-align: center;
+}
+
+.space0{
+    margin: 20px;
+    height: 400px;
+    background-image: url("./imges/machine.jpg");
+}
+.left{
+   width: 100px;
+   float: right;
+   height:180px
+  
+}
+.size{
+    margin: 20px;
+}
+.htmls{
+    width: 70px;
+    height: 70px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+}
+.groupstudy{
+    width: 300px;
+    height: 250px;
+    margin-left: 40px;
+}
+.python{
+    width: 30px;
+    height:30px;
+}
+.round{
+    border-radius: 50;
+    height: 80px;
+    width: 80px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+.data{
+    width: 200px;
+    height: 10px;
+}
+.machine{
+    width: 200px;
+    height: 10px;
+    background-color: yellow;
+}
+.high{
+    width: 200px;
+    height: 10px;
+    background-color: skyblue;
+}
+.job{
+    width: 200px;
+    height: 10px;
+    background-color: lightgreen;
+}
+.middle{
+    margin-left: 60px;
+    text-align: justify;
+    padding-left: 20px;
+}
+.allBus{
+    text-align: center;
+    background-color: skyblue;
+}
+.syadiv{
+    height: 930px;
+    margin-top: 30px;
+
+}
+.row1{
+    background-color: pink;
+    
+}
+.spacex{
+    margin-top: 20px;
+}
+.row2{
+    width: 60px;
+    margin: 20p;
+ 
+}
+.row3{
+    width: 60px;
+    margin-left: 380px;
+}
+
+.detail{
+    margin-top: 20px;
+    line-height: 35px;
+    height: 420px;
+
+}
+.flex{
+    margin-left: 150px;
+}
+.thirdcont{
+    margin-top: 20px;
+}
