@@ -10,7 +10,7 @@
 .Box{
     float:right;
     width: 700px;
-    height: 320px;
+    height: 350px;
     background-color: bisque;
     margin: 30px;
     border-radius: 25px;
@@ -54,4 +54,8 @@
     border-radius: 55px;
     border: 5px solid orange;
    
+}
+.bpo{
+    margin-left: 20px;
+    color: green;
 }

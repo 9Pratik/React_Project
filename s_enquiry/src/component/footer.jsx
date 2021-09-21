@@ -38,7 +38,7 @@ class Footer extends React.Component{
             message:this.state.message
         }
         console.log(data)
-        fetch("http://localhost:3004/insertReg", {
+        fetch("http://localhost:3004/insertFee", {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify(data)
@@ -52,6 +52,11 @@ class Footer extends React.Component{
             if (data.affectedRows= 1) {
                 self.setState({ 
                     msg: "Data is successfully Sent",
+                    name:"",
+                    email:"",
+                    phone:"",
+                    course:"",
+                    message:""
                    
                  });
             }
@@ -69,12 +74,12 @@ class Footer extends React.Component{
                     <p>Reach Us <br />Call / SMS / WhatsApp - +91-7609944064 <br />Mon to Sat - 10.15am to 7pm & <br />Sunday - 10.15am to 4pm <br /> Mail us - info@studyspace.co.in</p>
                 </div>
                 <div className="Box">
-                    <p>{this.state.msg}</p>
+                    <p className="bpo">{this.state.msg}</p>
                 <center><h3>Detail Fees Detail</h3></center>
                         <Container>
                             <Row>
                                 <Col xs={6} className="red">
-                                    <Form className="red">
+                                    <Form className="red" onSubmit={this.handleSubmit} >
                                         <Form.Group className="mb-3" controlId="formBasicName">
                                             <Form.Control type="text" placeholder="Enter Name" className="text" name="name" value={this.state.name} onChange={this.handleChange} />
                                         </Form.Group>
